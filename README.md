@@ -14,6 +14,10 @@ Lecture notes for courses [Systems for LLMs and AI Agents](https://cseweb.ucsd.e
 
 ## Lecture Notes
 
+### ⚙️ Edge and Serving
+
+- [Agent Foundations](https://github.com/erectbranch/Systems-LLMs-Agents/tree/master/lec01)
+
 ## :mag: Schedule
 
 | Date | Lecture | Topic | Slides |
