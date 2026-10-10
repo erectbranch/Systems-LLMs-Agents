@@ -18,6 +18,12 @@ Lecture notes for courses [Systems for LLMs and AI Agents](https://cseweb.ucsd.e
 
 - [Agent Foundations](https://github.com/erectbranch/Systems-LLMs-Agents/tree/master/lec01)
 
+  > Milestones in Agent Systems, Anatomy of LLM Agent
+
+- [Accelerators, Local Inference Runtimes](https://github.com/erectbranch/Systems-LLMs-Agents/tree/master/lec05/summary01)
+
+  > Accelerators(TPU, NPU), Unified Memory, Local Inference Runtimes(llama.cpp, MLX, OpenVINO)
+
 ## :mag: Schedule
 
 | Date | Lecture | Topic | Slides |
