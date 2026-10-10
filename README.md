@@ -24,6 +24,10 @@ Lecture notes for courses [Systems for LLMs and AI Agents](https://cseweb.ucsd.e
 
   > Accelerators(TPU, NPU), Unified Memory, Local Inference Runtimes(llama.cpp, MLX, OpenVINO)
 
+- [CPU-GPU, CPU-NPU Execution](https://github.com/erectbranch/Systems-LLMs-Agents/tree/master/lec05/summary02)
+
+  > PowerInfer(Activation Locality), PowerInfer-2(Overlap I/O, Neuron-Cluster Granularity)
+
 ## :mag: Schedule
 
 | Date | Lecture | Topic | Slides |
