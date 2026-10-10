@@ -160,7 +160,7 @@ PowerInfer는 CPU-GPU 이기종 추론을 고려해, 각 장치별로 효율적�
 
 ### 5.6.4 Results
 
-llama.cpp 대비 여러 모델(OPT(7B~175B), ReLUFalcon-40B, LLaMA2(13B~70B), Bamboo-7B) 비교에서 E2E 성능을 비교하였다.
+llama.cpp 대비 여러 모델(OPT(7B\~175B), ReLUFalcon-40B, LLaMA2(13B\~70B), Bamboo-7B) 비교에서 E2E 성능을 비교하였다.
 
 | Gen. Speed | Load Breakdown | Batch Size |
 | :---: | :---: | :---: |
