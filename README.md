@@ -34,6 +34,10 @@ Lecture notes for courses [Systems for LLMs and AI Agents](https://cseweb.ucsd.e
 
   > HeteroInfer: Layer-level/Tensor-level Partitioning, Fast Synchronization
 
+- [Heterogeneous Execution: Energy, Adaptive Serving](https://github.com/erectbranch/Systems-LLMs-Agents/tree/master/lec06/summary02)
+
+  > CORE(Unified DVFS Governor), TurboInfer(Kernel, Token-level GPU Stalls), Adaptive Serving
+
 ## :mag: Schedule
 
 | Date | Lecture | Topic | Slides |
